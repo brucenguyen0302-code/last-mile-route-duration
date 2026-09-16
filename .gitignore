@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data (licence does not allow redistribution)
+data/
+*.xlsx
+*.xls
+*.csv.gz
+
+# Colab / OS clutter
+.ipynb_checkpoints/
+.DS_Store

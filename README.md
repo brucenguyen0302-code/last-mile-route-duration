@@ -1,8 +1,5 @@
 # Last-Mile Route Duration Prediction
 
-UTS 42172 Introduction to Artificial Intelligence — AT1, Example II (regression)
-Author: Le Binh Nguyen (26205599)
-
 ## Problem
 Route-planning software gives every delivery route an optimised stop sequence, but drivers
 often change it, so the real time a route takes differs from the plan. This project

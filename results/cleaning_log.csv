@@ -1,0 +1,8 @@
+rule,failed (any order),removed at this step,routes left
+R1 has customer stops,30,30,19617
+R2 arrivals in driving order,1513,1509,18108
+R3 starts at the depot,1045,1020,17088
+R4 time windows within one day,351,217,16871
+R5 duration at most 13 hours,604,416,16455
+R6 average speed at most 130 km/h,1002,405,16050
+R7 at least 1 minute per stop,959,2,16048
